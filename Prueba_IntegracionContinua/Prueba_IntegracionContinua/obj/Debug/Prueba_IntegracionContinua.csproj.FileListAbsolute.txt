@@ -1,0 +1,9 @@
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\bin\Debug\Prueba_IntegracionContinua.exe.config
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\bin\Debug\Prueba_IntegracionContinua.exe
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\bin\Debug\Prueba_IntegracionContinua.pdb
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\obj\Debug\Prueba_IntegracionContinua.csprojResolveAssemblyReference.cache
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\obj\Debug\Prueba_IntegracionContinua.Form1.resources
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\obj\Debug\Prueba_IntegracionContinua.Properties.Resources.resources
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\obj\Debug\Prueba_IntegracionContinua.csproj.GenerateResource.Cache
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\obj\Debug\Prueba_IntegracionContinua.exe
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinua\obj\Debug\Prueba_IntegracionContinua.pdb

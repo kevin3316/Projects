@@ -1,0 +1,9 @@
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\bin\Debug\Prueba_IntegracionContinuaTests.dll
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\bin\Debug\Prueba_IntegracionContinuaTests.pdb
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\bin\Debug\Prueba_IntegracionContinua.exe
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\bin\Debug\Prueba_IntegracionContinua.pdb
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\obj\Debug\Prueba_IntegracionContinuaTests.csprojResolveAssemblyReference.cache
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\obj\Debug\Prueba_IntegracionContinuaTests.dll
+c:\users\kevin3316\documents\visual studio 2015\Projects\Prueba_IntegracionContinua\Prueba_IntegracionContinuaTests\obj\Debug\Prueba_IntegracionContinuaTests.pdb
