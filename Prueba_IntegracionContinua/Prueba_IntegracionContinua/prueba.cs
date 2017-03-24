@@ -21,5 +21,17 @@ namespace Prueba_IntegracionContinua
                 return false;
             }
         }
+
+        public bool Login2(string usuario, string contra)
+        {
+            if(usuario == "pascuala" && contra == "123")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }
