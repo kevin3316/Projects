@@ -16,7 +16,7 @@ namespace Prueba_IntegracionContinua.Tests
         public void LoginTest()
         {
             string usuario = "kevin3316";
-            string contra = "123";
+            string contra = "1234";
             bool esperado = true;
             prueba l = new prueba();
             var actua = l.Login(usuario, contra);
