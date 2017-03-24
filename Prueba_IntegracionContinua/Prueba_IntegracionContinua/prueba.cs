@@ -12,7 +12,6 @@ namespace Prueba_IntegracionContinua
 
         public bool Login(string usuario, string contra)
         {
-            int o = 0;
             if (usuario == "kevin3316" && contra == "123")
             {
                 return true;
