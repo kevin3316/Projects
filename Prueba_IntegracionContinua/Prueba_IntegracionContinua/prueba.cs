@@ -33,5 +33,16 @@ namespace Prueba_IntegracionContinua
                 return false;
             }
         }
+
+        private bool Login3(string usuario, string contra)
+        {
+            if(usuario == "luis123" && contra == "123")
+            {
+                return true;
+            }else
+            {
+                return false;
+            }
+        }
     }
 }
