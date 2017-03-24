@@ -24,7 +24,7 @@ namespace Prueba_IntegracionContinua
 
         public bool Login2(string usuario, string contra)
         {
-            if(usuario == "pascuala" && contra == "123")
+            if(usuario == "kevin" && contra == "123")
             {
                 return true;
             }
